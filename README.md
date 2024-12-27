@@ -1,11 +1,13 @@
 
-MEAN APP - Employee Management
+# MEAN APP - Employee Management
 
 
-Run from server directory:
-npm install
-npx ts-node src/server.ts
+'Run from server directory:
+'npm install
+'npx ts-node src/server.ts
 
-Run from client directory
-npm install 
-ng serve -o
+'Run from client directory
+''npm install 
+''ng serve -o
+
+''for mongo DB - Provide Cloud Atlas URL 
